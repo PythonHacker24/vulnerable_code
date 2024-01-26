@@ -95,5 +95,4 @@ int main() {
   printf("Token Key: %s\n", token_key);
 
   return 0;
-
 }

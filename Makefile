@@ -1,2 +1,2 @@
 target:
-	gcc -g -fno-stack-protector main.c -o auth 
+	gcc -g -fno-stack-protector vuln.c -o vuln -m32 
